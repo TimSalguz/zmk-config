@@ -62,10 +62,9 @@
 
                 &mt LSHIFT ESC  &kp A  &kp S  &kp D  &kp F  &kp G  &mt LALT SPACE  &mt LALT SPACE  &kp H  &kp J  &kp K  &kp L  &kp SEMI  &mt LSHIFT RET
 
-                &mt LCTRL DEL   &kp Z  &kp X  &kp C  &kp V  &kp B  &mo RSE         &mo RSE         &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &mt LCTRL DEL
+                &mt LCTRL DEL   &kp Z  &kp X  &kp C  &kp V  &kp B  &mo RSE         &mo RSE         &kp N  &kp M  &kp COMMA  &kp PERIOD  &kp FSLH  &mt LCTRL DEL // Здесь исправили неполадку
 
             >;
-
 
         };
 
