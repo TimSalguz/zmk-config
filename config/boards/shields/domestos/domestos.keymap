@@ -93,8 +93,8 @@
                 &kp ESC    &kp N1      &kp Q   &kp W   &kp E    &kp R                          &kp C_VOL_UP    &none    &none    &none    &none    &none
                 &kp TAB    &kp N2      &kp A   &kp S   &kp D    &kp F                          &kp C_VOL_DN    &none    &none    &none    &none    &none
                 &kp LCTRL  &kp LSHIFT  &kp Z   &kp X   &kp C    &kp V                          &none           &none    &none    &none    &none    &none
-                                                        &kp F24 &kp SPACE &kp LALT       &tog DEF &tog DEF &tog DEF
-            >;
+                                                        &kp F24 &kp SPACE &kp LALT       &to DEF &to DEF &to DEF
+            >;ffffff
         };
         media_layer {
 // ---------------------------------------------------------------------------------------------------------------------------------
